@@ -1,0 +1,15 @@
+**Amazon 2023 Performance Summary**
+
+In 2023, Amazon demonstrated robust financial growth and operational enhancements across its business segments. The company's total revenue rose by 12% year-over-year, reaching $575 billion, compared to $514 billion in 2022. This growth was driven by a consistent increase in sales across its North America, International, and Amazon Web Services (AWS) segments. North America revenue grew by 12%, International by 11%, and AWS by 13%.
+
+Operating income showed significant improvement, surging by 201% from $12.2 billion in the previous year to $36.9 billion, with operating margins improving from 2.4% to 6.4%. Free cash flow also turned positive, reaching $35.5 billion, a substantial improvement from a negative $12.8 billion in 2022.
+
+Amazon continued to enhance customer experiences, notably through the expansion of its product selection and improvements in delivery speeds. Same-day or next-day delivery services saw a record high, with over 7 billion items delivered within these time frames. The company also reduced its cost to serve, indicating operational efficiencies and regionalization efforts.
+
+Internationally, Amazon observed positive growth trajectories in established markets and emerging markets like India, Brazil, and Mexico, with the latter turning profitable in the fourth quarter of 2023. Advertising revenue grew by 24%, reaching $47 billion, driven by innovations such as Sponsored TV ads and the integration of ads into Prime Video content.
+
+AWS experienced growth despite initial cost optimization efforts by customers. Revenue increased due to new deal acceleration and customer renewals with larger commitments. AWS made significant advancements in its technological offerings, including the introduction of Graviton4 and Trainium2 chips, and expanded its infrastructure with new Availability Zones.
+
+Amazon continued to invest in new business opportunities, such as Prime Video and its satellite initiative, Project Kuiper, which aims to provide broadband connectivity globally. The company is optimistic about its future prospects, focusing on innovation and improving customer experiences across all its businesses.
+
+The company remains committed to its long-term mission of being Earth's most customer-centric company, leveraging its vast resources to innovate and enhance its offerings continually.

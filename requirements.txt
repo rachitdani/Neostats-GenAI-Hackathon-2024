@@ -1,0 +1,11 @@
+openai
+python-dotenv
+requests
+langchain
+langchain-community
+#unstructured
+#PyPDF2
+#pdfminer
+azure-ai-documentintelligence
+azure-ai-formrecognizer
+langchain_openai

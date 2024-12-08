@@ -1,0 +1,59 @@
+To calculate the requested financial metrics, we need the following information from the report data you provided:
+
+1. **Current Ratio**: Current Assets / Current Liabilities
+   - Current Assets: $172,351 million
+   - Current Liabilities: $164,917 million
+
+2. **Debt-to-Equity Ratio**: Total Debt / Total Equity
+   - Total Debt: $67,182 million (long-term debt)
+   - Total Equity: $201,875 million
+
+3. **Return on Equity (ROE)**: Net Income / Average Shareholders' Equity
+   - Net Income: $30,425 million
+   - Average Equity: (Beginning Equity + Ending Equity) / 2 = ($146,043 million + $201,875 million) / 2
+
+4. **Return on Assets (ROA)**: Net Income / Average Total Assets
+   - Net Income: $30,425 million
+   - Average Assets: (Beginning Assets + Ending Assets) / 2 = ($462,675 million + $527,854 million) / 2
+
+5. **Gross Profit Margin**: (Net Sales - Cost of Sales) / Net Sales
+   - Net Sales: $574,785 million
+   - Cost of Sales: $304,739 million
+
+6. **Net Profit Margin**: Net Income / Net Sales
+   - Net Income: $30,425 million
+   - Net Sales: $574,785 million
+
+7. **Earnings Per Share (EPS)**: Net Income / Weighted Average Shares Outstanding
+   - Net Income: $30,425 million
+   - Weighted Average Shares Outstanding: 10,304 million (basic)
+
+Let's calculate these:
+
+```json
+{
+    "Current Ratio": 172351 / 164917,
+    "Debt-to-Equity Ratio": 67182 / 201875,
+    "Return on Equity (ROE)": 30425 / ((146043 + 201875) / 2),
+    "Return on Assets (ROA)": 30425 / ((462675 + 527854) / 2),
+    "Gross Profit Margin": (574785 - 304739) / 574785,
+    "Net Profit Margin": 30425 / 574785,
+    "Earnings Per Share (EPS)": 30425 / 10304
+}
+```
+
+Calculating the values:
+
+```json
+{
+    "Current Ratio": 1.0451,
+    "Debt-to-Equity Ratio": 0.3327,
+    "Return on Equity (ROE)": 0.1723,
+    "Return on Assets (ROA)": 0.0584,
+    "Gross Profit Margin": 0.4704,
+    "Net Profit Margin": 0.0529,
+    "Earnings Per Share (EPS)": 2.9514
+}
+```
+
+These values can be saved in an Excel sheet by converting them into a table format. You can use software like Microsoft Excel or Google Sheets to create a table and input these values for further analysis.
